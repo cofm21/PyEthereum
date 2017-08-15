@@ -38,3 +38,9 @@ docs/_build
 
 # Cookiecutter
 output/
+
+# Key
+priv_key
+
+# DS_STORE
+.DS_STORE
